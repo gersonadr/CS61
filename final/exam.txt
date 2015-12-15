@@ -1,0 +1,105 @@
+You will place all the answers for your exam in this file. Please be sure to label
+each question clearly, so there is absolutely no possibility we will miss that you've
+answered a question. Please do not place your name anywhere in this file.
+
+After you have completed the exam, edit the file policy.txt, and attest that
+you have followed the rules for the exam by writing, "I have I have neither
+given nor received help on this exam and have followed the rules as stated."
+Then type your name beneath it, indicating compliance.
+
+1. Data Representation
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+=-=-=-=-=-=
+2. Memory Layout
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+=-=-=-=-=-=
+3. Pot Pourri
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+=-=-=-=-=-=
+4. Assembly and Data Structures
+A
+B
+C
+=-=-=-=-=-=
+5. Memory and Pointers
+
+=-=-=-=-=-=
+6. Teensy OS VM System
+A
+B
+C
+D
+E
+F
+G
+H
+=-=-=-=-=-=
+7. Teensy OS Page Tables
+A
+B
+C
+D
+E
+F
+G
+H
+=-=-=-=-=-=
+8. Processes
+A
+B
+C
+D
+E
+F
+=-=-=-=-=-=
+9. Synchronization
+A
+B
+C
+D
+E
+F
+=-=-=-=-=-=
+10. Network Servers
+A
+B
+C
+D
+E
